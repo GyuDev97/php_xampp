@@ -1003,3 +1003,22 @@
 오후 11:53:30  [main] 	Deinitializing Modules
 오후 11:53:30  [main] 	Deinitializing Control Panel
 
+오후 8:04:40  [main] 	Initializing Control Panel
+오후 8:04:40  [main] 	Windows Version:  Enterprise  64-bit
+오후 8:04:40  [main] 	XAMPP Version: 7.3.12
+오후 8:04:40  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+오후 8:04:40  [main] 	You are not running with administrator rights! This will work for
+오후 8:04:40  [main] 	most application stuff but whenever you do something with services
+오후 8:04:40  [main] 	there will be a security dialogue or things will break! So think 
+오후 8:04:40  [main] 	about running this application with administrator rights!
+오후 8:04:40  [main] 	XAMPP Installation Directory: "d:\github\php_xampp\xampp\"
+오후 8:04:40  [main] 	Checking for prerequisites
+오후 8:04:41  [main] 	All prerequisites found
+오후 8:04:41  [main] 	Initializing Modules
+오후 8:04:41  [main] 	Starting Check-Timer
+오후 8:04:41  [main] 	Control Panel Ready
+오후 8:04:43  [mysql] 	Attempting to start MySQL app...
+오후 8:04:44  [mysql] 	Status change detected: running
+오전 1:21:36  [main] 	Deinitializing Modules
+오전 1:21:36  [main] 	Deinitializing Control Panel
+

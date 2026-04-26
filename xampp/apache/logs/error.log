@@ -1524,3 +1524,13 @@
 [Wed Apr 15 23:47:28.855403 2026] [ssl:warn] [pid 3132:tid 664] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Wed Apr 15 23:47:28.909331 2026] [ssl:warn] [pid 3132:tid 664] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Wed Apr 15 23:47:28.934836 2026] [mpm_winnt:notice] [pid 3132:tid 664] AH00354: Child: Starting 150 worker threads.
+[Sun Apr 26 14:40:54.997039 2026] [ssl:warn] [pid 3268:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 26 14:40:55.050805 2026] [core:warn] [pid 3268:tid 620] AH00098: pid file D:/github/php_xampp/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 26 14:40:55.051806 2026] [ssl:warn] [pid 3268:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 26 14:40:58.928148 2026] [mpm_winnt:notice] [pid 3268:tid 620] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.12 configured -- resuming normal operations
+[Sun Apr 26 14:40:58.928148 2026] [mpm_winnt:notice] [pid 3268:tid 620] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sun Apr 26 14:40:58.928148 2026] [core:notice] [pid 3268:tid 620] AH00094: Command line: 'd:\\github\\php_xampp\\xampp\\apache\\bin\\httpd.exe -d D:/github/php_xampp/xampp/apache'
+[Sun Apr 26 14:40:58.933895 2026] [mpm_winnt:notice] [pid 3268:tid 620] AH00418: Parent: Created child process 20876
+[Sun Apr 26 14:40:59.719859 2026] [ssl:warn] [pid 20876:tid 656] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 26 14:40:59.772755 2026] [ssl:warn] [pid 20876:tid 656] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 26 14:40:59.799010 2026] [mpm_winnt:notice] [pid 20876:tid 656] AH00354: Child: Starting 150 worker threads.
