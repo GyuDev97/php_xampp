@@ -1,0 +1,10 @@
+# XAMPP generated files
+xampp/tmp/*.tmp
+
+xampp/apache/logs/error.log
+xampp/apache/logs/httpd.pid
+
+xampp/mysql/data/ib_logfile*
+xampp/mysql/data/ibtmp1
+xampp/mysql/data/mysql.pid
+xampp/mysql/data/mysql_error.log
