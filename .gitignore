@@ -1,11 +1,23 @@
 # XAMPP generated files
-xampp/tmp/*.tmp
+xampp/tmp/
+xampp/temp/
 
-xampp/apache/logs/*.log
+xampp/*.log
+xampp/**/*.log
+xampp/**/*.pid
+xampp/**/*.err
+xampp/**/*.tmp
+
+xampp/apache/logs/
 xampp/apache/logs/httpd.pid
 
 xampp/mysql/data/ib_logfile*
 xampp/mysql/data/ibtmp1
 xampp/mysql/data/mysql.pid
 xampp/mysql/data/mysql_error.log
-xampp/apache
+xampp/mysql/data/*.err
+xampp/mysql/data/*.pid
+
+xampp/tomcat/logs/
+xampp/tomcat/temp/
+xampp/MercuryMail/*.LOG
